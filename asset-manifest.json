@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Deepti_Employee-Management-/static/css/main.3d37d977.chunk.css",
-    "main.js": "/Deepti_Employee-Management-/static/js/main.73e68bc4.chunk.js",
-    "main.js.map": "/Deepti_Employee-Management-/static/js/main.73e68bc4.chunk.js.map",
+    "main.js": "/Deepti_Employee-Management-/static/js/main.6163f8f1.chunk.js",
+    "main.js.map": "/Deepti_Employee-Management-/static/js/main.6163f8f1.chunk.js.map",
     "runtime-main.js": "/Deepti_Employee-Management-/static/js/runtime-main.5119abbc.js",
     "runtime-main.js.map": "/Deepti_Employee-Management-/static/js/runtime-main.5119abbc.js.map",
     "static/css/2.d16a2693.chunk.css": "/Deepti_Employee-Management-/static/css/2.d16a2693.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.d16a2693.chunk.css",
     "static/js/2.0c2a3b5e.chunk.js",
     "static/css/main.3d37d977.chunk.css",
-    "static/js/main.73e68bc4.chunk.js"
+    "static/js/main.6163f8f1.chunk.js"
   ]
 }
