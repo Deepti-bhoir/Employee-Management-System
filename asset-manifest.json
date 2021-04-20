@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Deepti_Employee_Management-System/static/css/main.3d37d977.chunk.css",
-    "main.js": "/Deepti_Employee_Management-System/static/js/main.2493d372.chunk.js",
-    "main.js.map": "/Deepti_Employee_Management-System/static/js/main.2493d372.chunk.js.map",
-    "runtime-main.js": "/Deepti_Employee_Management-System/static/js/runtime-main.3a371aef.js",
-    "runtime-main.js.map": "/Deepti_Employee_Management-System/static/js/runtime-main.3a371aef.js.map",
-    "static/css/2.d16a2693.chunk.css": "/Deepti_Employee_Management-System/static/css/2.d16a2693.chunk.css",
-    "static/js/2.0c2a3b5e.chunk.js": "/Deepti_Employee_Management-System/static/js/2.0c2a3b5e.chunk.js",
-    "static/js/2.0c2a3b5e.chunk.js.map": "/Deepti_Employee_Management-System/static/js/2.0c2a3b5e.chunk.js.map",
-    "static/js/3.af6fecb7.chunk.js": "/Deepti_Employee_Management-System/static/js/3.af6fecb7.chunk.js",
-    "static/js/3.af6fecb7.chunk.js.map": "/Deepti_Employee_Management-System/static/js/3.af6fecb7.chunk.js.map",
-    "index.html": "/Deepti_Employee_Management-System/index.html",
-    "static/css/2.d16a2693.chunk.css.map": "/Deepti_Employee_Management-System/static/css/2.d16a2693.chunk.css.map",
-    "static/css/main.3d37d977.chunk.css.map": "/Deepti_Employee_Management-System/static/css/main.3d37d977.chunk.css.map",
-    "static/js/2.0c2a3b5e.chunk.js.LICENSE.txt": "/Deepti_Employee_Management-System/static/js/2.0c2a3b5e.chunk.js.LICENSE.txt"
+    "main.css": "/Deepti_Employee-Management-/static/css/main.3d37d977.chunk.css",
+    "main.js": "/Deepti_Employee-Management-/static/js/main.73e68bc4.chunk.js",
+    "main.js.map": "/Deepti_Employee-Management-/static/js/main.73e68bc4.chunk.js.map",
+    "runtime-main.js": "/Deepti_Employee-Management-/static/js/runtime-main.5119abbc.js",
+    "runtime-main.js.map": "/Deepti_Employee-Management-/static/js/runtime-main.5119abbc.js.map",
+    "static/css/2.d16a2693.chunk.css": "/Deepti_Employee-Management-/static/css/2.d16a2693.chunk.css",
+    "static/js/2.0c2a3b5e.chunk.js": "/Deepti_Employee-Management-/static/js/2.0c2a3b5e.chunk.js",
+    "static/js/2.0c2a3b5e.chunk.js.map": "/Deepti_Employee-Management-/static/js/2.0c2a3b5e.chunk.js.map",
+    "static/js/3.af6fecb7.chunk.js": "/Deepti_Employee-Management-/static/js/3.af6fecb7.chunk.js",
+    "static/js/3.af6fecb7.chunk.js.map": "/Deepti_Employee-Management-/static/js/3.af6fecb7.chunk.js.map",
+    "index.html": "/Deepti_Employee-Management-/index.html",
+    "static/css/2.d16a2693.chunk.css.map": "/Deepti_Employee-Management-/static/css/2.d16a2693.chunk.css.map",
+    "static/css/main.3d37d977.chunk.css.map": "/Deepti_Employee-Management-/static/css/main.3d37d977.chunk.css.map",
+    "static/js/2.0c2a3b5e.chunk.js.LICENSE.txt": "/Deepti_Employee-Management-/static/js/2.0c2a3b5e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3a371aef.js",
+    "static/js/runtime-main.5119abbc.js",
     "static/css/2.d16a2693.chunk.css",
     "static/js/2.0c2a3b5e.chunk.js",
     "static/css/main.3d37d977.chunk.css",
-    "static/js/main.2493d372.chunk.js"
+    "static/js/main.73e68bc4.chunk.js"
   ]
 }
