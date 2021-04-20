@@ -1,6 +1,6 @@
 {
-  "homepage":"http://Deepti-bhoir.github.io/Deepti_Employee_Management-System",
   "name": "react-frontend",
+  "homepage": "http://Deepti-bhoir.github.io/SpringReact",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,14 +15,13 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.1"
   },
-  "scripts": { 
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build", 
+  "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
-
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
